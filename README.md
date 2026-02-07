@@ -87,7 +87,7 @@ The dataset contains approximately **3,900 retail transactions** including:
 - Interactive filters for exploratory analysis
 
 ---
-
+```
 ## Repository Structure
 
 Customer-Shopping-Behavior-Analysis/
@@ -99,7 +99,7 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer Shopping Behavior Analysis.pdf
 ├── Business Problem Document.pdf
 └── README.md
-
+```
 ---
 
 ## Business Impact
